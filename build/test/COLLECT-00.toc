@@ -1,0 +1,496 @@
+([('test.exe',
+   'D:\\9. python project\\31. open CV detect color\\build\\test\\test.exe',
+   'EXECUTABLE'),
+  ('test.exe.manifest',
+   'D:\\9. python project\\31. open CV detect '
+   'color\\build\\test\\test.exe.manifest',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg453_64.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\cv2\\opencv_videoio_ffmpeg453_64.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\.libs\\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('_lzma',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('PyQt6.QtGui',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt6.QtCore',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt6.sip',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\sip.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32gui',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_tests',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_umath',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32pdh',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._sfc64',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._philox',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._pcg64',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._mt19937',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.bit_generator',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._generator',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._bounded_integers',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._common',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft._pocketfft_internal',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2.cv2',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\cv2\\cv2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6.QtWidgets',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('Qt6Gui.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'BINARY'),
+  ('Qt6Core.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'BINARY'),
+  ('Qt6Svg.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'BINARY'),
+  ('Qt6Widgets.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\WINDOWS\\system32\\MSVCP140.dll', 'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('MSVCP140_2.dll', 'C:\\WINDOWS\\system32\\MSVCP140_2.dll', 'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
+   'BINARY'),
+  ('pywintypes39.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\Lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('MSVCP140_1.dll',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\9. python project\\31. open CV detect '
+   'color\\build\\test\\base_library.zip',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'D:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\top_level.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\METADATA',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\top_level.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\RECORD',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\INSTALLER',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\RECORD',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\INSTALLER',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\entry_points.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\WHEEL',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\WHEEL',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\METADATA',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\WHEEL',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\dependency_links.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\dependency_links.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\INSTALLER',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\LICENSE',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\entry_points.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\entry_points.txt',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\INSTALLER',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\COPYING.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\COPYING.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\WHEEL',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\zip-safe',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\zip-safe',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\RECORD',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\LICENSE',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\LICENSE',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\METADATA',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\RECORD',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.36.2.dist-info\\LICENSE.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\wheel-0.36.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools-57.0.0.dist-info\\top_level.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\setuptools-57.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\top_level.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\REQUESTED',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\WHEEL',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\METADATA',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\entry_points.txt',
+   'd:\\9. python project\\31. open cv detect '
+   'color\\venv\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\entry_points.txt',
+   'DATA')],)
